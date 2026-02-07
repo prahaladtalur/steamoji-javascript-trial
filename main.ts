@@ -6,10 +6,11 @@ const JUMP_FORCE = 800;
 const SPEED = 670;
 
 // initialize context
+kaboom();
 kaboom({ background: [0, 255, 255] })
 
 // load assets
-loadSprite("SpriteOji", "sprites/SpriteOji.png")
+loadSprite("SpriteOji", "sprites/SpriteOji.png/Steamoji-Code-TrialREMIX-THIS-FOR-TRIALS-DO-NOT-DELETE/SpriteOji.png")
 
 scene("game", () => {
 
@@ -18,7 +19,7 @@ scene("game", () => {
 
   // add a game object to screen
 
-    // list of components
+  // list of components
 
   // list of components
 
