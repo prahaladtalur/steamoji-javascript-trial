@@ -10,7 +10,7 @@ kaboom();
 kaboom({ background: [0, 255, 255] })
 
 // load assets
-loadSprite("SpriteOji", "sprites/SpriteOji.png/Steamoji-Code-TrialREMIX-THIS-FOR-TRIALS-DO-NOT-DELETE/SpriteOji.png")
+loadSprite("SpriteOji", "sprites/steamoji.png")
 
 scene("game", () => {
 
